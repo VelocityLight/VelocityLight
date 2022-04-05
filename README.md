@@ -13,7 +13,7 @@
 - 💬 Ask me about:
   - DevOps
   - Effeciency Engineering
-- 📫 Reach me: yjchit@126.com
+- 📫 Reach me: yejunchen@pingcap.com
 - 😄 Pronouns: Tony
 - ⚡ Fun fact:
   - stay foolish, stay curious
