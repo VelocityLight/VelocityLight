@@ -6,8 +6,7 @@
 **VelocityLight/VelocityLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on:
-  - PingCAP 
+- 🔭 I’m currently working on: PingCAP 
 - 👯 I’m looking to collaborate on:
   - [the TiDB community](https://tidb.io/archived/events/)
 - 💬 Ask me about:
