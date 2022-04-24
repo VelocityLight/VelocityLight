@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=VelocityLight&show_icons=true&theme=merko" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=VelocityLight&show_icons=true" />
 
 ### Hi Bro 👋
 
@@ -15,4 +15,4 @@
 - 📫 Reach me: yejunchen@pingcap.com
 - 😄 Pronouns: Tony
 - ⚡ Fun fact:
-  - stay foolish, stay curious
+  - Stay Foolish, Stay Curious
