@@ -7,7 +7,7 @@
 -->
 
 - 🔭 I’m working on: 
-  - aliyun
+  - Aliyun
   - PingCAP(currently)
 - 👯 I’m looking to collaborate on:
   - [the TiDB community](https://tidb.io/archived/events/)
