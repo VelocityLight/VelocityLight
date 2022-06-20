@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=VelocityLight&show_icons=true" />
 
-### Hi Bro, Let's be a follower/following for each other hahaha (求互粉哈哈） 👋
+### Hi Bro 👋
 
 <!--
 **VelocityLight/VelocityLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
