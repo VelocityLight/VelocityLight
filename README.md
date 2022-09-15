@@ -1,10 +1,11 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=VelocityLight&show_icons=true" />
-
 ### Hi Bro 👋
 
 <!--
 **VelocityLight/VelocityLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<img align='right' src="https://raw.githubusercontent.com/VelocityLight/velocitylight-github-stats/main/statics/languages.svg#gh-light-mode-only" />
+<img align='right' src="https://raw.githubusercontent.com/VelocityLight/velocitylight-github-stats/main/statics/overview.svg#gh-light-mode-only" />
 
 - 🔭 I’m working on: 
   - Aliyun
