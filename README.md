@@ -4,7 +4,6 @@
 **VelocityLight/VelocityLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align='right' src="https://raw.githubusercontent.com/VelocityLight/velocitylight-github-stats/main/statics/languages.svg#gh-light-mode-only" />
 <img align='right' src="https://raw.githubusercontent.com/VelocityLight/velocitylight-github-stats/main/statics/overview.svg#gh-light-mode-only" />
 
 - 😄 Pronouns: Tony
