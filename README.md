@@ -9,7 +9,7 @@
   - Aliyun
   - PingCAP(currently)
 - 💬 Ask me about:
-  - DevOps
+  - DevOps / FinOps
   - Effeciency Engineering
 - 👯 I’m looking to collaborate:
   - [the TiDB community](https://tidb.io/archived/events/)
