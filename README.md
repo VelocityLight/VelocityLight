@@ -7,10 +7,10 @@
 - 😄 Pronouns: Tony
 - 🔭 I’m working on: 
   - Aliyun
-  - PingCAP(currently)
+  - PingCAP (currently)
 - 💬 Ask me about:
   - DevOps & FinOps
-  - Cloud Solutions Architect (AWS-Professional)
+  - Cloud Solutions Architect (AWS & GCP)
   - Effeciency Engineering & Quality Engineering
 - 👯 I’m looking to collaborate:
   - [the TiDB community](https://tidb.io/archived/events/)
