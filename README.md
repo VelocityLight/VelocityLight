@@ -10,7 +10,7 @@
   - PingCAP(currently)
 - 💬 Ask me about:
   - DevOps & FinOps
-  - AWS/GCP Cloud Architecture Solution
+  - Cloud Solutions Architect (AWS-Professional)
   - Effeciency Engineering & Quality Engineering
 - 👯 I’m looking to collaborate:
   - [the TiDB community](https://tidb.io/archived/events/)
