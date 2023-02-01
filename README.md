@@ -9,8 +9,9 @@
   - Aliyun
   - PingCAP(currently)
 - 💬 Ask me about:
-  - DevOps / FinOps
-  - Effeciency Engineering / Quality Engineering
+  - DevOps & FinOps
+  - AWS/GCP Cloud Architecture Solution
+  - Effeciency Engineering & Quality Engineering
 - 👯 I’m looking to collaborate:
   - [the TiDB community](https://tidb.io/archived/events/)
 - 📫 Reach me: yejunchen@pingcap.com
